@@ -1,0 +1,33 @@
+.alert-label {
+  display: block;
+  color: rgb(232, 75, 75);
+}
+
+.name:hover {
+  cursor: pointer;
+}
+
+.faculty:hover {
+  cursor: pointer;
+}
+
+.birth-date:hover {
+  cursor: pointer;
+}
+.study:hover {
+  cursor: pointer;
+}
+
+.filter-inputs {
+  gap: 20px;
+  justify-content: space-between;
+}
+
+.alert-label {
+  display: flex;
+  justify-content: center;
+}
+
+.label__table {
+  display: none;
+}
